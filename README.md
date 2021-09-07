@@ -1,1 +1,4 @@
-# Instagram-UI Clone Using React Native
+#                                                                                             Instagram-UI Clone 
+# Javascript
+# React
+# React Native
